@@ -1,4 +1,4 @@
-# 💫 Olá, eu sou a Sara:
+# 💫 Olá, eu sou a Sara
 🔭 Hoje trabalho com Gestão de Projetos<br>🌱 Estudando C#<br>😄 Pronouns: ela/dela
 
 
