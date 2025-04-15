@@ -1,5 +1,5 @@
 # 💫 Olá, eu sou a Sara
-🔭 Hoje trabalho com Gestão de Projetos<br>🌱 Estudando C#<br>😄 Pronouns: ela/dela
+🔭 Hoje trabalho com RPA (Python e Power Automate)<br>🌱 Estudando C#<br>😄 Pronouns: ela/dela
 
 
 ## 🌐 Perfis:
